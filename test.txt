@@ -3,5 +3,7 @@ This is my test text for git test
 처음인데 쉽지는 않네요. 
 git 재미있어요. ㅎ
 changed
+changed2
+
 
 
