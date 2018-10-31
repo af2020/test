@@ -1,0 +1,7 @@
+This is my test text for git test
+이렇게 한글이 잘 써지는 것도 확인하고 있습니다.
+처음인데 쉽지는 않네요. 
+git 재미있어요. ㅎ
+changed
+
+
